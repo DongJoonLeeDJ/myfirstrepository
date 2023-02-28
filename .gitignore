@@ -65,3 +65,7 @@ dkms.conf
 *.1.*
 *.log
 *.lastbuildstate
+*.vsidx
+*.lock
+*.db
+*.ipch
